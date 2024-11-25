@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DREW", "DREW\DREW.csproj", "{248E5BAE-E48D-43A3-83F5-79AE38A5D73E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{248E5BAE-E48D-43A3-83F5-79AE38A5D73E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{248E5BAE-E48D-43A3-83F5-79AE38A5D73E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{248E5BAE-E48D-43A3-83F5-79AE38A5D73E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{248E5BAE-E48D-43A3-83F5-79AE38A5D73E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A8E92A25-A471-465D-9CAB-729025876501}
+	EndGlobalSection
+EndGlobal
